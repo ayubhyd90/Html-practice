@@ -1,0 +1,43 @@
+.main1{
+    background-color: aqua;
+    width: 1500px;
+    height: 500px;
+
+}
+.d1{
+    background-color: brown;
+    width: 150px;
+    height: 150px;
+}
+
+.div1{
+    background-color: rgb(102, 255, 0);
+    width: 1500px;
+    height: 500px;
+
+}
+.div2{
+    background-color: brown;
+    width: 150px;
+    height: 150px;
+}
+.div2{
+    background-color: rgb(55, 0, 255);
+    width: 1500px;
+    height: 500px;
+
+}
+.div3{
+    background-color: rgb(255, 174, 0);
+    width: 1500px;
+    height: 500px;
+
+}
+.d3{
+    background-color: chartreuse;
+    width: 1500px;
+    height: 150px;
+    position: fixed;
+    bottom: opx;
+    
+}

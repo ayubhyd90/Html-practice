@@ -1,0 +1,14 @@
+.h1{
+    /* display: none; */
+    /* visibility: hidden; */
+    display: inline;
+
+}
+
+.h2{
+    display: inline;
+    margin-left: 50px;
+}
+span{
+    display: block;
+}

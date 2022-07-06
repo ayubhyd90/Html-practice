@@ -1,0 +1,34 @@
+input{
+    width: 200px;
+    height: 30px;
+}
+input::placeholder{
+    color: aqua;
+    background-color: red;
+    font-size: 27px;
+
+
+}
+p::selection {
+    background-color: red;
+    color: green;
+}
+p::first-line{
+    color: orange;
+    font-size: large;
+}
+p::first-letter{
+    color: rgb(255, 0, 128);
+    font-size: large;
+}
+span{
+    color: red;
+}
+p:hover:before{
+    content: "Hello";
+    color: pink;
+}
+p:hover:after{
+    content: "PickupBiz";
+    color: rgb(255, 192, 221);
+}
